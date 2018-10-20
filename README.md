@@ -3,7 +3,7 @@ Instalasi MinGW dapat diunduh di http://bit.ly/install-mingw atau http://bit.ly/
 
 # Cara Instalasi MinGW
 
-1) Unduh MinGW pada situs di atas.
+1) Unduh MinGW.zip pada situs di atas.
 2) Ekstrak file MinGW.zip ke C:\MinGW
 3) Pindah folder yang berisi mingw-get-setup.exe (cek di C:\MinGW atau C:\MinGW\MinGW) bergantung proses ekstrak.
    Kemudian jalankan mingw-get-setup.exe
